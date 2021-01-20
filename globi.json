@@ -10,6 +10,7 @@
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
     "url" : "https://datadryad.org/stash/downloads/file_stream/40842",
     "dcterms:bibliographicCitation" : "Pocock, Michael J. O.; Evans, Darren M.; Memmott, Jane (2012), Data from: The robustness and restoration of a network of ecological networks, Dryad, Dataset, https://doi.org/10.5061/dryad.3s36r118",
+    "doi" : "10.5061/dryad.3s36r118",
     "delimiter" : ",",
     "headerRowCount" : 1,
     "null" : [ "" ],
